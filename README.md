@@ -1,4 +1,4 @@
-# The Brick Breaker Game
+# The Ball Brick Breaker Game
 
 # import liabries
 import turtle
